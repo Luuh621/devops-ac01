@@ -27,7 +27,7 @@
 # Para a interface gráfica será utilizada a PyQt biblioteca contendo objetos para inteface com usuário.
 
 # Nicolas Ferreira Santos
-# RA:2800345
+# RA:1800345
 # Operação:
 # Interface para usuário contendo os menus, com os campos em branco a serem preenchidos.
 # Os dados dos campos serão enviados para o cálculo.
