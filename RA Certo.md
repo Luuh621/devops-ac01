@@ -1,5 +1,4 @@
-# Lucas Nascimento de Oliveira
-# RA: 1800048
+
 
 # Alexandre de Oliveira
 # RA: 1800632
