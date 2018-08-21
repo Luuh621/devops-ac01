@@ -8,6 +8,8 @@
 # RA: 1800294
 # Testes:
 
+# Alexandre de Oliveira
+# RA: 1800632
 
 # Requisitos Calculadora de Obra: [Ok]
 # Auxiliar no calculo de materiais:
