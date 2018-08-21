@@ -1,9 +1,5 @@
 
 
-# Alexandre de Oliveira
-# RA: 1800632
-
-
 # Marcelo Mithio Nakamura
 # RA: 1800294
 # Testes:
