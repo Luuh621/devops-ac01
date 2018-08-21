@@ -8,9 +8,16 @@
 # Marcelo Mithio Nakamura
 # RA: 1800294
 # Testes:
+
+
 # Requisitos Calculadora de Obra: [Ok]
 # Auxiliar no calculo de materiais:
 # Irá dar o valor aproximado e a quantidade de material a ser utilizado.
+
+
+
+# Lucas Nascimento de Oliveira
+# RA: 1800048
 # Design:
 # Deve apresentar as seguintes telas: [Ok]
 # -Material 
